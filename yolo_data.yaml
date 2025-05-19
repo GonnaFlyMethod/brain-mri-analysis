@@ -1,0 +1,5 @@
+train: yolo_images/Training
+val: yolo_images/Testing
+
+nc: 4
+names: ['glioma', 'meningioma', 'notumor', 'pituitary']
